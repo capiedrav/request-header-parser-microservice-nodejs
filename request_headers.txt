@@ -1,0 +1,23 @@
+{
+  host: '02d2a533-b041-4131-bff7-5e83571e3ab3.id.repl.co',
+  'user-agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0',
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3',
+  referer: 'https://02d2a533-b041-4131-bff7-5e83571e3ab3.id.repl.co/',
+  'sec-fetch-dest': 'iframe',
+  'sec-fetch-mode': 'navigate',
+  'sec-fetch-site': 'same-origin',
+  'sec-fetch-user': '?1',
+  te: 'trailers',
+  'upgrade-insecure-requests': '1',
+  'x-forwarded-for': '200.24.16.219',
+  'x-forwarded-proto': 'https',
+  'x-replit-user-bio': '',
+  'x-replit-user-id': '',
+  'x-replit-user-name': '',
+  'x-replit-user-profile-image': '',
+  'x-replit-user-roles': '',
+  'x-replit-user-teams': '',
+  'x-replit-user-url': ''
+}
